@@ -6,7 +6,6 @@ const failSound = new Audio('./sounds/failSound.mp3');
 const winSound = new Audio('./sounds/winSound.mp3');
 const welcomeSound = new Audio('./sounds/welcomeSound.mp3');
 
-// adding eventlistner at after run the function
 window.addEventListener('load', function () {
     let loadingPage = document.getElementById('loading-page');
     let mainPage = document.getElementById('main-page');
