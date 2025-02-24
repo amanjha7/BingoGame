@@ -1,3 +1,6 @@
+
+
+
 const container = document.querySelector('.container');
 
 const crossSound = new Audio('./sounds/crossSound.m4a');
